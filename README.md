@@ -2,3 +2,4 @@
 Tarea 
  - Antonia Rojas
  - Rocío Morales
+ - Samuel Vásquez
