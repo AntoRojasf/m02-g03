@@ -3,3 +3,4 @@ Tarea
  - Antonia Rojas
  - Rocío Morales
  - Samuel Vásquez
+ - Fernanda Pineda
