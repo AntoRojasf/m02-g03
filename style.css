@@ -1,6 +1,6 @@
 
 body{ /* body selecciona el cuerpo general y lo pinta */
-	background-color: skyblue; /* https://www.w3schools.com/colors/colors_names.asp */  
+	background-color: #A5CD7E; /* https://www.w3schools.com/colors/colors_names.asp */  
 	font-family: 'Open Sans', sans-serif;
 			}
 
@@ -8,7 +8,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 	width: 900px;
 	padding: 20px 0px;
 	margin: 0px;
-	background: purple;
+	background: #425E27;
 	margin: 0 auto; /* centrar elementos dentro de este div */
 	float: center;  /* otras opciones son left, right */
 }
