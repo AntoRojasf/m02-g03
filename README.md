@@ -1,6 +1,6 @@
 # m02-gxx
 Tarea 
- - Antonia Rojas
- - Rocío Morales
- - Samuel Vásquez
- - Fernanda Pineda
+ - Antonia Rojas.
+ - Rocío Morales.
+ - Samuel Vásquez.
+ - Fernanda Pineda.
