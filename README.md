@@ -3,3 +3,4 @@
 - Rocio Morales
 - Samuel Vásquez
 - Fernanda Pineda
+- Pía Garrido Deuster
