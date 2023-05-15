@@ -1,2 +1,5 @@
 # m02-g03
-Tarea 
+- Antonia Rojas
+- Rocio Morales
+- Samuel Vásquez
+- Fernanda Pineda
