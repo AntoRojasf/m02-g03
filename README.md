@@ -4,3 +4,4 @@
 - Samuel Vásquez
 - Fernanda Pineda
 - Pía Garrido Deuster
+- Amparo Molina
