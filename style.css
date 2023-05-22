@@ -68,6 +68,7 @@ li a {
   padding: 8px 16px;
   text-decoration: none;
   padding: 50px;
+  width: 100px; 
 }
 
 /* Change the link color on hover */
@@ -107,6 +108,7 @@ h1{
   margin-top: 900px;
   margin-bottom: 0px;
   transform: translate(-10px);
+  padding-right: 20px;
 }
 
 .lista-footer {
@@ -127,7 +129,7 @@ a{
      font-family: 'Inter', sans-serif;
      color: white;
      position: absolute;
-     margin-top: 1000px;
+     margin-top: 1150px;
      text-align: center;
      margin-left: 400px;
  }
