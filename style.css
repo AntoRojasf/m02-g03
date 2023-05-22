@@ -104,7 +104,7 @@ h1{
   font-family: 'Staatliches', cursive;
   background: black;
   position: absolute;
-  margin-top: 900px;
+  margin-top: 760px;
   margin-bottom: 0px;
   transform: translate(-10px);
 }
@@ -119,7 +119,15 @@ h1{
   margin: auto;
 
 }
-
+ 
 a{
     color: white;
 }
+#fot{
+     font-family: 'Inter', sans-serif;
+     color: white;
+     position: absolute;
+     margin-top: 1000px;
+     text-align: center;
+     margin-left: 400px;
+ }
