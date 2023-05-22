@@ -131,10 +131,10 @@ a{
      text-align: center;
      margin-left: 400px;
  }
-  .video {
+.video {
    position: relative;
-  overflow: hidden;
+   overflow: hidden;
   width: 100%;
-  padding-top: 231.2%;
-  padding-left: 33%;
+  padding-top: 482.5vh;
+  padding-left: 33vw;
 }
